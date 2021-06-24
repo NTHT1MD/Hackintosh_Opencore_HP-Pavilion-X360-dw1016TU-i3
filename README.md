@@ -1,3 +1,4 @@
+![HP Pavilion x360 dw1016TU i3_Screen Shot 2021-06-16 at 20 53 37](https://user-images.githubusercontent.com/86007351/123223451-1a6a8380-d4fb-11eb-93c7-3fb9d05e6576.png)
 ![HP Pavilion x360 dw1016TU i3_Screen Shot 2021-06-16 at 21 11 15](https://user-images.githubusercontent.com/86007351/123223255-f0b15c80-d4fa-11eb-86cb-4a9d93b1f344.png)
 - 👋 Hi, I’m @NTHT1MD
 - 👀 I’m interested in hackintosh
