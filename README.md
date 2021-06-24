@@ -1,3 +1,4 @@
+![HP Pavilion x360 dw1016TU i3_Screen Shot 2021-06-16 at 21 11 15](https://user-images.githubusercontent.com/86007351/123223255-f0b15c80-d4fa-11eb-86cb-4a9d93b1f344.png)
 - 👋 Hi, I’m @NTHT1MD
 - 👀 I’m interested in hackintosh
 - 🌱 I’m currently learning medicine
@@ -22,6 +23,11 @@ Wireless connectivity: Intel® Wireless-AC 9461 802.11a/b/g/n/ac (1x1) Wi-Fi® a
 Expansion slots: 1 multi-format SD media card reader
 External ports: 1 SuperSpeed USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge); 2 SuperSpeed USB Type-A 5Gbps signaling rate; 1 HDMI 2.0; 1 AC smart pin; 1 headphone/microphone combo
 
+I have used efi of pro #deniro98 and #xqmnig:
+https://github.com/xqmnig/YOGA-14s-2021-hackintosh
+https://github.com/deniro98/hackintosh-asus-zenbook-duo-ux482ea
+My EFI folder: https://drive.google.com/file/d/15q4zxqwwdIhaJgGxfmBHt181j9glyxMZ/view?usp=sharing
+
 Some bugs:
 1. Graphic:       
 2. Wifi           
@@ -30,5 +36,4 @@ Some bugs:
 5. Audio
 6. Touchpad       
 
-My EFI folder: https://drive.google.com/file/d/15q4zxqwwdIhaJgGxfmBHt181j9glyxMZ/view?usp=sharing
 
