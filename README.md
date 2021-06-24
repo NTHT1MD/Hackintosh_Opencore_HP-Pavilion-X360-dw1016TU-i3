@@ -35,6 +35,7 @@ Some bugs:
 3. Card Reader  
 4. Camera
 5. Audio
-6. Touchpad       
+6. Touchpad   
+7. Display: no touch    
 
 
