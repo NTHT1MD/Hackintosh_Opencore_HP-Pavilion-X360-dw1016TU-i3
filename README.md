@@ -29,6 +29,8 @@ https://github.com/xqmnig/YOGA-14s-2021-hackintosh
 https://github.com/deniro98/hackintosh-asus-zenbook-duo-ux482ea
 My EFI folder: https://drive.google.com/file/d/15q4zxqwwdIhaJgGxfmBHt181j9glyxMZ/view?usp=sharing
 
+my video clip (screen record): https://www.youtube.com/watch?v=AM8_o2h16hQ
+
 Some bugs:
 1. Graphic:       
 2. Wifi           
